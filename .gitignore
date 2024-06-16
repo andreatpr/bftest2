@@ -1,8 +1,4 @@
 # Ignore the src directory
 /src/node_modules
 /src/.env
-/students2/node_modules
-/students2/public
-/students2/src/App.test.js
-/students2/src/reportWebVitals.js
-/students2/src/setupTests.js
+/students2/
