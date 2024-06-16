@@ -1,3 +1,4 @@
 # Ignore the src directory
 /src/node_modules
 /src/.env
+/students2
