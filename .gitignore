@@ -1,7 +1,3 @@
 # Ignore the src directory
 /src/node_modules
 /src/.env
-/students2/node_modules
-[submodule "students2"]
-    path = students2
-    url = https://github.com/andreatpr/bftest2.git
